@@ -1,6 +1,6 @@
 # Carrosserie Jeanne d'Arc — site vitrine
 
-Site statique HTML / CSS / JavaScript, sans dépendance ni build. Hébergé sur Cloudflare : https://carrosserie-jeanne-darc.sitedave.workers.dev
+Site statique HTML / CSS / JavaScript, sans dépendance ni build. Hébergé sur Cloudflare : https://carrosserie-jeanne-darc.preview-client.workers.dev
 
 ## Structure
 - `index.html` — la page d'accueil
