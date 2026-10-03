@@ -1,6 +1,6 @@
 # Carrosserie Jeanne d'Arc — site vitrine
 
-Site statique HTML / CSS / JavaScript, sans dépendance ni build. Hébergé sur GitHub Pages.
+Site statique HTML / CSS / JavaScript, sans dépendance ni build. Hébergé sur Cloudflare : https://carrosserie-jeanne-darc.sitedave.workers.dev
 
 ## Structure
 - `index.html` — la page d'accueil
@@ -15,6 +15,9 @@ Site statique HTML / CSS / JavaScript, sans dépendance ni build. Hébergé sur 
 - `hero2.jpg`, `hero3.jpg` — réserves
 
 ## Mettre à jour le site en ligne
+    npx wrangler deploy
+
+Puis sauvegarder le code sur GitHub :
     git add -A && git commit -m "Mise à jour" && git push
 
 ## Tester en local
